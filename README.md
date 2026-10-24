@@ -10,8 +10,15 @@ A semi-autonomous robotic Tic-Tac-Toe system that connects **software-based game
 
 The project integrates a purchased **6-DOF educational robotic arm kit**, servo actuation, a Raspberry Pi 4, a PCA9685 PWM driver, a gripper, and a custom game board with designed pieces and holders. My work focused on hardware/control integration, creating the game environment, developing the software, experimentally calibrating positions, and testing the integrated system—not designing the arm kit from scratch.
 
-> **Demo:** A video of the working prototype will be added here.  
-> **Project photos:** Photos of the assembled system will be added to [`images/`](images/).
+## Project Demonstration
+> **Project photos:** Photos of the assembled system will be added to [images/](images/).
+
+The following video demonstrates the robotic arm performing
+physical pick-and-place movements during Tic-Tac-Toe gameplay.
+
+
+https://github.com/user-attachments/assets/70800c0d-72f8-4538-b1ab-b168076b3740
+
 
 ## Key features
 
